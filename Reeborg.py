@@ -1,0 +1,27 @@
+def step1():
+    move()
+    turn_left()
+    move()   
+step1()
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+turn_right()
+move()
+turn_right()
+move()
+turn_left()
+step1()
+turn_right()
+move()
+
+turn_right()
+move()
+turn_right()
+move()
+turn_left()
+step1()
+turn_right()
+move()
